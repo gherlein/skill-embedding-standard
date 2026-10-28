@@ -1,7 +1,7 @@
 # Skill Self-Installation Specification (Go)
 
 ```
-Embedded Skills Standard                                        G. Herlein
+Skill Embedding Standard                                        G. Herlein
 Independent Submission                                       October 2026
 Intended status: Experimental
 Expires: 27 April 2027

@@ -1,4 +1,4 @@
-# Embedded Skills Standard
+# Skill Embedding Standard
 
 **A skill is the new man page.** A command-line tool should carry the thing that
 teaches an agent to drive it, inside its own binary or package, and installed as

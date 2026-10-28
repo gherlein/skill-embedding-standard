@@ -1,7 +1,7 @@
 # Skills Directory Specification
 
 ```
-Embedded Skills Standard                                        G. Herlein
+Skill Embedding Standard                                        G. Herlein
 Independent Submission                                       October 2026
 Intended status: Experimental
 Expires: 27 April 2027
@@ -26,7 +26,7 @@ working group, and has no official standing. It adopts the structure and
 conventions of an IETF Internet-Draft (see [RFC7322]) only to aid review and
 interoperability.
 
-It is one half of the **Embedded Skills Standard**; its companion is the
+It is one half of the **Skill Embedding Standard**; its companion is the
 [Skill Self-Installation Specification](SKILL-INSTALL-SPEC.md) ([SELF-INSTALL]),
 which defines how a tool carries and installs a skill into the store this
 document names. Comments are solicited and should be sent to the author.
@@ -301,7 +301,7 @@ This document has no IANA actions.
 ### 11.2 Informative References
 
 - **[SELF-INSTALL]** Herlein, G., "Skill Self-Installation Specification",
-  Embedded Skills Standard, [`SKILL-INSTALL-SPEC.md`](SKILL-INSTALL-SPEC.md).
+  Skill Embedding Standard, [`SKILL-INSTALL-SPEC.md`](SKILL-INSTALL-SPEC.md).
 - **[RFC7322]** Flanagan, H. and S. Ginoza, "RFC Style Guide", RFC 7322,
   September 2014.
 - **[AGENTS.md]** The AGENTS.md repository-root instructions convention,
